@@ -1,0 +1,12 @@
+.vs/
+bin/
+Bin/
+obj/
+*.config
+*.user
+*.nupkg
+*.slconfig
+*.ruleset
+/_ReSharper.Caches/*
+packages/
+*.pubxml
